@@ -1,0 +1,28 @@
+name: Let Us Dare
+favicon: null
+layout_spectrum: 0.8700659391470253
+typography_spectrum: 0.1454452897887677
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.3696489413268864
+  lightness: 0.724311845144257
+  saturation: 0.30640759016387165
+  rhythmicContrast: 0.5278837920632213
+purpose: []
